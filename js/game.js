@@ -1569,7 +1569,7 @@ const settings5dolars = async function (x) {
   });
 };
 var TIME = new Date().getTime();
-var linkCSS = "https://wormatefriendsturkey.com/wormExtension/css/style.css?v=" + TIME;
+var linkCSS = "https://ii7modysmp-hue.github.io/test/css/game.css?v=" + TIME;
 async function unlockSkinsPrivate(x) {
   var e = x.u.si.userId;
   var t = clientsSkins.clientsSkinsActivos.find(x => x.client_ID === e);
